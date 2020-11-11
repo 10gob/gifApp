@@ -1,3 +1,3 @@
 # GifApp
 
-Buscador de gifs
+Buscador de gifs creado con React
